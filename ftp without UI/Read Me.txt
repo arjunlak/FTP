@@ -1,0 +1,24 @@
+FILE TRANSFER PROTOCOL
+-----------------------------------------------------------------------------------------------------------------
+Requirements :
+Basic Command Prompt
+-----------------------------------------------------------------------------------------------------------------
+
+RUNNING THE PROJECT
+-----------------------------------------------------------------------------------------------------------------
+
+USE "HELP" COMMAND IN THE FIRST PLACE TO KNOW THE FORMAT OF ALL OTHER COMMANDS
+
+
+-The server application should be compiled in the command prompt using the command "javac FTPServer.java".
+-Then run the FTPServer using the command "java FTPServer"
+-The port number to be used should be specified.
+
+
+-The client application can be run using the command prompt
+-The hostname, username,password and the port should be entered in command prompt
+-The list of commands would be displayed and can be chosen as needed.
+
+
+=================================================================================================================
+

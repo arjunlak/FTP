@@ -1,0 +1,10 @@
+
+
+
+FTP
+
+I have enclosed two folders each containing code for FTP with User Interface and the other without user interface
+
+Kindly open any one of them for your convenience and preference.
+
+
